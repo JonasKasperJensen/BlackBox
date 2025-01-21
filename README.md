@@ -1,5 +1,6 @@
 # **Black Box Network: Proof of Concept**
-# I Jonas Kasper Jensen can not code and have been working with AI to create this Proof of concept. If the project is founded I will work with an profesional programmer to create code
+
+I, Jonas Kasper Jensen, am not a professional programmer but have utilized AI tools to create this Proof of Concept for the Black Box Network. This repository demonstrates the core ideas of the project, including AI collaboration, blockchain integration, and synthetic immune systems. If the project receives funding, I will collaborate with a professional developer to refine and expand the code into a fully functional system.
 
 The Black Box Network is a decentralized AI-powered system that integrates artificial intelligence, blockchain technology, and the concept of Artificially Induced Timestretching (AIT). This project explores secure, personalized AI collaboration, synthetic immune systems, and data sharing in a decentralized framework, pushing the boundaries of human interaction and creativity.
 
