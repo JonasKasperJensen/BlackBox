@@ -30,8 +30,4 @@ This project is licensed under the GNU General Public License (GPL). For more de
 If you have questions or would like to collaborate, please reach out:
 - **Author:** Jonas
 - **Email:** mail@jonaskasperjensen.com
-- **Twitter:** @
-
----
-
-Make sure to replace placeholders with your actual contact information and repository details. If you need further customization or assistance with anything, let me know!
+- **Twitter:** https://x.com/TBlackBoxN
