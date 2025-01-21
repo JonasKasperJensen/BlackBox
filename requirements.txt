@@ -1,0 +1,9 @@
+# AI and NLP libraries
+transformers==4.30.2
+
+# Blockchain integration
+web3==5.31.3
+
+# Optional dependencies for advanced use (if needed)
+torch==2.0.1
+numpy==1.24.3
